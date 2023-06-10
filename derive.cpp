@@ -1,5 +1,5 @@
 #include <stdio.h>
-/* signe moins + conversion est decrementation dynamique dans un autre int et un autre pour le produit*/
+/* signe moins + .conversion est decrementation dynamique dans un autre int et un autre pour le produit*/
 int length(char c[50]){
 	int i=-1;
 	do{
